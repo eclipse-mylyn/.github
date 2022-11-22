@@ -14,7 +14,7 @@ It provides:
 - **A broad ecosystem of Agile and ALM integrations** 
 <br>Dozens of extensions integrate Mylyn with ALM and developer collaboration tools
 
-Mylyn's [task-focused interface](https://en.wikipedia.org/wiki/Task-focused_interface/)
+Mylyn's [task-focused interface](https://en.wikipedia.org/wiki/Task-focused_interface)
 reduces information overload and makes multitasking easy.
 Mylyn makes tasks a first class part of the IDE, integrates rich and offline editing for ALM tools,
 and monitors your programming activity to create a "task context" that focuses your workspace and automatically links all
