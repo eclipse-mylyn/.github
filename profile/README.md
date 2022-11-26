@@ -24,4 +24,4 @@ by reducing information overload, facilitating multitasking and easing the shari
 ### Developing and Contributing
 
 Contributions are always welcome!
-See [CONTRIBUTING.md](../CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/eclipse-mylyn/.github/blob/main/CONTRIBUTING.md)
