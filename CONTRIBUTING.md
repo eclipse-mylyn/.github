@@ -32,7 +32,7 @@ It is also recommended to [add SSH public keys to your GitHub account](https://g
 
 You can set up a pre-configured IDE for development of Mylyn's projects using the following link.
 
-[![Create Eclipse Development Environment for Eclipse Mylyn](https://download.eclipse.org/oomph/www/setups/svg/Mylyn.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-mylyn/org.eclipse.mylyn/master/org.eclipse.mylyn.releng/oomph/MylynConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
+[![Create Eclipse Development Environment for Eclipse Mylyn](https://download.eclipse.org/oomph/www/setups/svg/Mylyn.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-mylyn/org.eclipse.mylyn/main/org.eclipse.mylyn.releng/oomph/MylynConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
 
 ### Commit message recommendations
 
