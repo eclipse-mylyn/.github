@@ -22,6 +22,24 @@ monitors your programming activity to create a "task context" that focuses your 
 relevant artifacts to the task-at-hand. This puts the information you need at your fingertips and improves productivity
 by reducing information overload, facilitating multitasking and easing the sharing of expertise. 
 
-### Developing and Contributing
+## Reporting issues
+
+The Eclipse Mylyn project is split into two Git repositories, which are all part of this organization.
+- https://github.com/eclipse-mylyn/org.eclipse.mylyn.docs/issues
+  - Eclipse EPUB Tools
+  - Mylyn HTMLText
+  - Mylyn WikiText
+- https://github.com/eclipse-mylyn/org.eclipse.mylyn/issues
+  - Mylyn Task List
+  - Mylyn Task-Focused Interface
+  - Mylyn Build Connector (Jenkins) 
+  - Mylyn Context Connector (Eclipse IDE, Java Development, ...) 
+  - Mylyn Reviews Connector (Gerrit) 
+  - Mylyn Tasks Connector (Bugzilla) 
+  - Mylyn Versions Connector (Git, Subclipse) 
+
+If you face an issue and have a sense of which particular GitHub repository is most related, you can open your issue against that repository. If you're unsure, you can open an issue against this current repositories and the issue will then be moved as best by maintainers.
+
+## Developing and Contributing
 Contributions are always welcome!
 See [CONTRIBUTING.md](https://github.com/eclipse-mylyn/.github/blob/main/CONTRIBUTING.md)
