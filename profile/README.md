@@ -25,11 +25,11 @@ by reducing information overload, facilitating multitasking and easing the shari
 ## Reporting issues
 
 The Eclipse Mylyn project is split into two Git repositories, which are all part of this organization.
-- https://github.com/eclipse-mylyn/org.eclipse.mylyn.docs
+- https://github.com/eclipse-mylyn/org.eclipse.mylyn.docs/issues
   - Eclipse EPUB Tools
   - Mylyn HTMLText
   - Mylyn WikiText
-- https://github.com/eclipse-mylyn/org.eclipse.mylyn
+- https://github.com/eclipse-mylyn/org.eclipse.mylyn/issues
   - Mylyn Task List
   - Mylyn Task-Focused Interface
   - Mylyn Build Connector (Jenkins) 
