@@ -9,18 +9,14 @@ Welcome to Mylyn, the DevOps Integration Framework for Eclipse.
 
 ### Mylyn provides:
 - **The revolutionary task-focused interface**
-<br>Realigns the IDE around tasks so that you see only the code that's relevant 
+<br>Only see code for the task at hand.
 - **A task management tool for developers** 
-<br>Averaging 1 million downloads/month, Mylyn is the most popular IDE tool for DevOps 
+<br>Mylyn is amongst the most popular development tools for Eclipse 
 - **A broad ecosystem of DevOps integrations** 
 <br>Use extensions to integrate Mylyn with DevOps tools like Bugzilla, Jenkins, GitHub, JIRA, etc..
 
 Mylyn's [task-focused interface](https://en.wikipedia.org/wiki/Task-focused_interface)
 reduces information overload and makes multitasking easy.
-Mylyn makes Tasks a first class citizen of the IDE, integrates rich and offline editing for DevOps tools,
-monitors your programming activity to create a "task context" that focuses your workspace and automatically links all
-relevant artifacts to the task-at-hand. This puts the information you need at your fingertips and improves productivity
-by reducing information overload, facilitating multitasking and easing the sharing of expertise. 
 
 ## Reporting issues
 
