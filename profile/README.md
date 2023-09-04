@@ -38,7 +38,7 @@ The Eclipse Mylyn project is split into two Git repositories, which are all part
   - Mylyn Tasks Connector (Bugzilla) 
   - Mylyn Versions Connector (Git, Subclipse) 
 
-If you face an issue and have a sense of which particular GitHub repository is most related, you can open your issue against that repository. If you're unsure, you can open an issue against this current repositories and the issue will then be moved as best by maintainers.
+If you face an issue and know which particular GitHub repository is most related, you can open your issue against that repository. If unsure, [you can open an issue here](https://github.com/eclipse-mylyn/org.eclipse.mylyn/issues).
 
 ## Developing and Contributing
 Contributions are always welcome!
