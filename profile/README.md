@@ -20,12 +20,11 @@ reduces information overload and makes multitasking easy.
 
 ## Reporting issues
 
-The Eclipse Mylyn project is split into two Git repositories, which are all part of this organization.
+The Eclipse Mylyn project is now in one Git repository, all previous repositories are archived and part of this organization.
 - https://github.com/eclipse-mylyn/org.eclipse.mylyn.docs/issues
   - Eclipse EPUB Tools
   - Mylyn HTMLText
   - Mylyn WikiText
-- https://github.com/eclipse-mylyn/org.eclipse.mylyn/issues
   - Mylyn Task List
   - Mylyn Task-Focused Interface
   - Mylyn Build Connector (Jenkins) 
@@ -34,7 +33,7 @@ The Eclipse Mylyn project is split into two Git repositories, which are all part
   - Mylyn Tasks Connector (Bugzilla) 
   - Mylyn Versions Connector (Git, Subclipse) 
 
-If you face an issue and know which particular GitHub repository is most related, you can open your issue against that repository. If unsure, [you can open an issue here](https://github.com/eclipse-mylyn/org.eclipse.mylyn/issues).
+If you face an issue [you can open an issue here](https://github.com/eclipse-mylyn/org.eclipse.mylyn/issues).
 
 ## Developing and Contributing
 Contributions are always welcome!
