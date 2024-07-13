@@ -21,7 +21,7 @@ reduces information overload and makes multitasking easy.
 ## Reporting issues
 
 The Eclipse Mylyn project is now in one Git repository, all previous repositories are archived and part of this organization.
-- https://github.com/eclipse-mylyn/org.eclipse.mylyn.docs/issues
+- https://github.com/eclipse-mylyn/org.eclipse.mylyn
   - Eclipse EPUB Tools
   - Mylyn HTMLText
   - Mylyn WikiText
